@@ -32,5 +32,3 @@ def p4():
     f.write("\n". join(map(lambda x: str(x), words)))
     f.close()
 
-
-p4()
